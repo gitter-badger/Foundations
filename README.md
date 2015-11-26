@@ -1,7 +1,7 @@
 Foundations [![Gitter]](https://gitter.im/kinggoesgaming/Foundations?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 =============================================================================================================================
 
-## Status: [![Master Status]](https://travis-ci.org/kinggoesgaming/S-S-Essentials)
+## Status: [![Master Status]](https://travis-ci.org/kinggoesgaming/Foundations)
 
 **Currently not stable and under heavy development**
 
@@ -67,10 +67,10 @@ In order to build Essence Sponge you simply need to run the `gradle` command.
 You can find the compiled JAR file in `./build/libs` labeled similarly to 'SS-Essentials-x.x-SNAPSHOT.jar'.
 
 [Gitter]: https://badges.gitter.im/Join%20Chat.svg
-[Master Status]: https://travis-ci.org/kinggoesgaming/S-S-Essentials.svg?branch=master
-[Source]: https://github.com/kinggoesgaming/S-S-Essentials
-[Wiki]: https://github.com/kinggoesgaming/S-S-Essentials/wiki
-[Issues]: https://github.com/kinggoesgaming/S-S-Essentials/issues
+[Master Status]: https://travis-ci.org/kinggoesgaming/Foundations.svg?branch=master
+[Source]: https://github.com/kinggoesgaming/Foundations
+[Wiki]: https://github.com/kinggoesgaming/Foundations/wiki
+[Issues]: https://github.com/kinggoesgaming/Foundations/issues
 [MIT License]: https://tldrlegal.com/license/mit-license
 [publishing guidelines]: Publishing.md
 [Java]: http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html

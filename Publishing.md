@@ -12,12 +12,7 @@ by the original author(s) of the project:
     https://github.com/kinggoesgaming/Foundations which is made by the KingGoesGaming.
     He allowed us to publish the project under the name <your fork name>
     `````
-
-3. A network can share the resource within the one or more connected servers. This means that any servers that are
-connected by [LilyPad] or [BungeeCord] can use one purchased copy of the plugin.
-
+    
 [Sponge Forums]: http://forums.spongepowered.org
 [Sponge Ore]: https://github.com/SpongePowered/Ore
 [MCExchange]: https://mcexchange.org/
-[LilyPad]: http://www.lilypadmc.org/
-[BungeeCord]: https://www.spigotmc.org/wiki/about-bungeecord/
