@@ -1,6 +1,8 @@
 Foundations [![Gitter]](https://gitter.im/kinggoesgaming/Foundations?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 =============================================================================================================================
 
+[![Join the chat at https://gitter.im/kinggoesgaming/Foundations](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/kinggoesgaming/Foundations?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ## Status: [![Master Status]](https://travis-ci.org/kinggoesgaming/Foundations)
 
 **Currently not stable and under heavy development**
